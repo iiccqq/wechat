@@ -1,0 +1,34 @@
+[
+      {
+        "id":1,
+        "src":'https://iiccqq.github.io/wechat/icon1.png',
+        "url":'/page/component/pages/video/video?imageId=1&&type=content',
+        "mode": 'aspectFill',
+        "title":'东北虎',
+        "text": '只要1999元,保持纵横比缩放图片，只保证图片的短边能完全显示出来'
+      },
+      {
+        "id":2,
+        "src": 'https://iiccqq.github.io/wechat/icon2.png',
+        "url": '/page/component/pages/image/image?imageId=2&&type=content',
+        "mode": 'aspectFill',
+        "title": '东北猫',
+        "text": '只要1999元,保持纵横比缩放图片，只保证图片的短边能完全显示出来'
+      },
+      {
+        "id":3,
+        "src": 'https://iiccqq.github.io/wechat/icon3.png',
+        "url": '/page/component/pages/video/video?imageId=3&&type=content',
+        "mode": 'aspectFill',
+        "title": '东北虎',
+        "text": '保持纵横比缩放图片，只保证图片的短边能完全显示出来'
+      },
+      {
+        "id":4,
+        "src": 'https://iiccqq.github.io/wechat/icon4.png',
+        "url": '/page/component/pages/image/image?imageId=4&&type=content',
+        "mode": 'aspectFill',
+        "title": '东北虎',
+        "text": '保持纵横比缩放图片，只保证图片的短边能完全显示出来'
+      }
+    ]
